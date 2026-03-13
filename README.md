@@ -73,7 +73,7 @@ Download the pack directly from **CurseForge** or **MCPEDL**, export it to Minec
 
 For full terms of use, download the terms file below:
 
-📄 **[Terms of Use (.txt)](./TERMS.txt)**
+📄 **[Terms of Use (.txt)](./TERMS_EN.txt)**
 
 ---
 
