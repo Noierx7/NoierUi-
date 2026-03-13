@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="NoierUi.png" alt="NoierUi Banner" />
+  <img src="Noier.png" alt="NoierUi Banner" />
 </p>
 
 <h1 align="center">NoierUi</h1>
