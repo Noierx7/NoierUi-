@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-Bedrock-orange" />
-  <img src="https://img.shields.io/badge/Downloads-62k-brightgreen" />
+  <img src="https://img.shields.io/badge/Downloads-76k+-brightgreen" />
   <img src="https://img.shields.io/badge/Status-In_Development-yellow" />
   <img src="https://img.shields.io/badge/Project-Brazilian-009c3b" />
   <img src="https://img.shields.io/badge/Made%20on-Mobile-blueviolet" />
