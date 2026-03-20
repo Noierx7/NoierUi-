@@ -6,10 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Minecraft-Bedrock-orange" />
-  <img src="https://img.shields.io/badge/Downloads-76k+-brightgreen" />
+  <img src="https://img.shields.io/badge/Downloads-100k+-brightgreen" />
   <img src="https://img.shields.io/badge/Status-In_Development-yellow" />
   <img src="https://img.shields.io/badge/Project-Brazilian-009c3b" />
   <img src="https://img.shields.io/badge/Made%20on-Mobile-blueviolet" />
+  <a href="https://noierx7.github.io"><img src="https://img.shields.io/badge/Website-noierx7.github.io-0a0a0a" /></a>
   <a href="https://www.curseforge.com/members/noier_x7/projects"><img src="https://img.shields.io/badge/CurseForge-Profile-f16436" /></a>
   <a href="https://discord.gg/Np6FDssZuw"><img src="https://img.shields.io/badge/Discord-Noier%20Community-5865F2" /></a>
   <a href="https://www.tiktok.com/@noier_x7"><img src="https://img.shields.io/badge/TikTok-@noier_x7-black" /></a>
@@ -55,6 +56,10 @@ Download the pack directly from **CurseForge** or **MCPEDL**, export it to Minec
 ## 🔹 Download
 
 <p align="center">
+  <a href="https://noierx7.github.io">
+    <img src="https://img.shields.io/badge/Website-noierx7.github.io-0a0a0a?style=for-the-badge" />
+  </a>
+  &nbsp;
   <a href="https://www.curseforge.com/members/noier_x7/projects">
     <img src="https://img.shields.io/badge/CurseForge-Download-f16436?style=for-the-badge" />
   </a>
@@ -71,9 +76,11 @@ Download the pack directly from **CurseForge** or **MCPEDL**, export it to Minec
 > © Noier_x7 — All Rights Reserved
 > Developed by Noier Projects
 
-For full terms of use, download the terms file below:
+For full terms of use, download the terms files below:
 
-📄 **[Terms of Use (.txt)](./TERMS_EN.txt)**
+📄 **[Terms of Use — English (TERMS_EN.txt)](./TERMS_EN.txt)**
+
+📄 **[Termos de Uso — Português (TERMS_PTBR.txt)](./TERMS_PTBR.txt)**
 
 ---
 
